@@ -1,2 +1,2 @@
 # cnn
-what does a CNN see?
+The simple notebook provides some insight to what a CNN "sees". 
